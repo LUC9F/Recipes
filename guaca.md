@@ -1,2 +1,6 @@
-# Ingredients
+# Ingredients:
+-> Avocado
+-> Lemon
+-> Salt
+
 # Instrcutions
