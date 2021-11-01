@@ -1,2 +1,1 @@
-Changes
-I Like Ketchup
+I like ketchup
